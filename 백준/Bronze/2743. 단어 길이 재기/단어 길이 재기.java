@@ -12,6 +12,7 @@ public class Main {
 		
 		System.out.println(al.length);	// 여기서 a.length가 오류가 났던 이유는 배열은 길이를 .length로 받고 스트링은 .length() 으로 받는다.
 									// 추가로 .size로 크기를 받는 것도 있다.
+		sc.close();  // 스캐너 닫는거 잊지말기
 	}
 
 }
