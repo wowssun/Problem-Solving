@@ -1,3 +1,7 @@
+### 풀이 기록
+<p>정수 자료형 크기 항상 고려하기!</p>
+
+
 # [Bronze V] 사파리월드 - 2420 
 
 [문제 링크](https://www.acmicpc.net/problem/2420) 
