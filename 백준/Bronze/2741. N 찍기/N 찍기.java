@@ -6,12 +6,10 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		int n = sc.nextInt();
+		sc.close();	
 		
 		for(int i = 1; i<=n; i++) {
 			System.out.println(i);
-		}
-		
-		sc.close();	
+		}	
 	}
-
 }
